@@ -20,6 +20,12 @@ With a humble background in software development, I bring a combination of detai
 - **[Chat with Gama](https://github.com/vendkura/talk-with-gama-app.git):** DevelopedachatbotusingNext.js,OpenAIAPI,NeonDB,
  and Embeddings for learning Gaml a programming language used to build system agents for simulation purposes
 
+
+## Connect with Me 📬
+- 📫 [Email](mailto:bazieibsen@yahoo.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/bazieibsengiovanni)
+
+I’m looking forward to collaborating on projects. Let’s connect! 🌍
 <!---
 vendkura/vendkura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
