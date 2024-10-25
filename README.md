@@ -5,15 +5,16 @@
 ## About Me
 I am currently pursuing a Master's in AI and Multimedia Systems, with a strong focus on **Generative AI**, **Natural Language Processing (NLP)**, and **Deep Learning**. My journey in AI is driven by a love for programming and a fascination with how AI can reshape the future. From crafting machine learning models to deploying AI solutions, I am dedicated to pushing the boundaries of what's possible in the tech landscape.
 
-I believe in the power of AI to transform industries and my mission is to create scalable solutions that empower businesses, especially SMEs, to thrive in a digital-first world.
+I believe in the power of code to transform industries and my mission is to create scalable solutions that empower businesses, especially SMEs, to thrive in a digital-first world.
 
 ## Technical Skills 🛠️
-- **Languages:** Python, JavaScript, PHP
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, OpenAI API, React, Next.js, Node.js, Django
-- **Tools & Platforms:** GitHub, AWS, Azure, Vercel, NeonDB
+- **Languages:** Python, JavaScript, Solidity
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, OpenAI API, React, Next.js, Node.js, Django 
+- **Tools & Platforms:** GitHub, AWS, Azure, Vercel, NeonDB, Remix, Metamask, 
 - **Data Science & AI:** Expertise in **Machine Learning**, **Deep Learning**, **NLP**, and AI model optimization techniques.
 
 ## Key Projects 📚
+- **Talk With NextJS:** Developed a Next.js chatbot application using the OpenAI API to assist users with code review and documentation queries.You can test it here: [Talk-with-nextjs](https://talk-with-nextjs-app.vercel.app/)
 - **QuickSlide AI Chatbot:** Developed a GPT-based AI chatbot that generates presentation content, focusing on optimizing prompt engineering for precise and relevant output.
 - **[Exam Cheating Detection System](https://github.com/vendkura/cheating_exam):** Built a computer vision system using AI algorithms to detect cheating during exams, enhancing model accuracy through advanced pattern recognition.
 - **[Local Chatpdf](https://github.com/vendkura/local_chat_doc):** Engineered an AI-powered NLP chatbot capable of extracting information from PDF documents in real-time, leveraging OpenAI’s GPT and Langchain frameworks.
