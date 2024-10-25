@@ -14,7 +14,7 @@ I believe in the power of code to transform industries and my mission is to crea
 - **Data Science & AI:** Expertise in **Machine Learning**, **Deep Learning**, **NLP**, and AI model optimization techniques.
 
 ## Key Projects 📚
-- **Talk With NextJS:** Developed a Next.js chatbot application using the OpenAI API to assist users with code review and documentation queries.You can test it here: [Talk-with-nextjs](https://talk-with-nextjs-app.vercel.app/)
+- **[Talk With NextJS](https://github.com/vendkura/talk-with-nextjs-app.git):** Developed a Next.js chatbot application using the OpenAI API to assist users with code review and documentation queries.You can test it here: [Talk-with-nextjs](https://talk-with-nextjs-app.vercel.app/)
 - **QuickSlide AI Chatbot:** Developed a GPT-based AI chatbot that generates presentation content, focusing on optimizing prompt engineering for precise and relevant output.
 - **[Exam Cheating Detection System](https://github.com/vendkura/cheating_exam):** Built a computer vision system using AI algorithms to detect cheating during exams, enhancing model accuracy through advanced pattern recognition.
 - **[Local Chatpdf](https://github.com/vendkura/local_chat_doc):** Engineered an AI-powered NLP chatbot capable of extracting information from PDF documents in real-time, leveraging OpenAI’s GPT and Langchain frameworks.
