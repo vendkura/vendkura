@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Giovanni (Bazie)
 
-## 🤖 AI Engineer | 💻 Full-Stack & Blockchain Developer | 🍽️ Food Science + AI Enthusiast
+## 🤖 AI Engineer | 💻 Full-Stack & Blockchain Developer | 🍽️ Food Science Enthusiast
 
 Currently building production AI systems serving **1000+ users globally** while exploring the fascinating intersection of artificial intelligence and food technology.
 
